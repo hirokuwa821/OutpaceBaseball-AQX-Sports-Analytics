@@ -1,0 +1,13 @@
+# Configuration Example (Template)
+# Copy this file to config.yaml if using Streamlit Authenticator.
+credentials:
+  usernames:
+    demo_user:
+      name: Demo User
+      password: $2b$12$e8w.dummyhashforconfigurationexampledemo1234567890
+      email: demo@example.com
+      role: pro
+cookie:
+  name: outpace_baseball_cookie
+  key: outpace_baseball_secret_key_placeholder
+  expiry_days: 30

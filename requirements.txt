@@ -1,0 +1,13 @@
+streamlit==1.64.0
+streamlit-authenticator==0.4.2
+PyYAML==6.0.3
+pandas==3.0.5
+numpy==2.5.1
+plotly==7.1.0
+opencv-python-headless==5.0.0.93
+ultralytics==8.4.114
+Pillow==12.3.0
+python-dotenv==1.2.3
+openpyxl==3.1.5
+
+boto3==1.36.0
